@@ -5,6 +5,7 @@ A visually captivating and fully interactive **3D Solar System simulation**, cre
 ---
 🔗 **Live Demo**:  
 - GitHub Pages: [https://kritipuri.github.io/3d-solar-system/](https://kritipuri.github.io/3d-solar-system/)
+- 🚀 Netlify: [https://illustrious-parfait-a31b8d.netlify.app/](https://illustrious-parfait-a31b8d.netlify.app/)
 ---
 
 ## 📌 Project Highlights
