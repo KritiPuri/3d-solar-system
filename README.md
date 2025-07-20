@@ -3,6 +3,9 @@
 A visually captivating and fully interactive **3D Solar System simulation**, created using **HTML**, **CSS**, and **JavaScript (Three.js)**. This self-contained web app provides an educational and immersive representation of our solar system, complete with orbiting planets, speed controls, and a responsive UI — all in a single HTML file.
 
 ---
+🔗 **Live Demo**:  
+- GitHub Pages: [https://kritipuri.github.io/3d-solar-system/](https://kritipuri.github.io/3d-solar-system/)
+---
 
 ## 📌 Project Highlights
 
